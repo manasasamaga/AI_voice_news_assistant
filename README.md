@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+
+This is a react js and alanAI project which detects the voice and follows the instructions and performs the actions
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
